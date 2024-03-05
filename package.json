@@ -1,6 +1,6 @@
 {
   "name": "check-ip-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check-ip-util",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lzgblog/check-ip-util.git"
+    "url": "https://github.com/lzgblog/check-ip-util.git"
   },
   "author": "",
   "license": "ISC",

@@ -1,6 +1,6 @@
 {
   "name": "check-ip-util",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "check-ip-util",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,12 @@
   "homepage": "https://github.com/lzgblog/check-ip-util#readme",
   "dependencies": {
     "cowsay": "^1.6.0",
-    "figlet": "^1.7.0"
+    "figlet": "^1.7.0",
+    "graph-tea": "^1.0.1",
+    "substring-by-length": "^1.0.1",
+    "tea-character-graph": "^1.0.1",
+    "tea-classification-description": "^1.0.1",
+    "tea-introduce": "^1.0.0",
+    "tea-word-art": "^1.0.0"
   }
 }

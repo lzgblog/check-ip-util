@@ -1,6 +1,6 @@
 {
   "name": "check-ip-util",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "check-ip-util",
   "main": "index.js",
   "scripts": {

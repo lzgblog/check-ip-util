@@ -1,11 +1,11 @@
 const figlet = require('figlet');
 const cowsay = require('cowsay');
-const graph-tea = require('graph-tea');
-const tea-word-art = require('tea-word-art');
-const tea-character-graph = require('tea-character-graph');
-const tea-classification-description = require('tea-classification-description');
-const tea-introduce = require('tea-introduce');
-const substring-by-length = require('substring-by-length');
+const graphtea = require('graph-tea');
+const teawordart = require('tea-word-art');
+const teacharactergraph = require('tea-character-graph');
+const teaclassificationdescription = require('tea-classification-description');
+const teaintroduce = require('tea-introduce');
+const substringbylength = require('substring-by-length');
 
 function checkIpUtil(ip) {
         var re = /(\d+)\.(\d+)\.(\d+)\.(\d+)/g;
